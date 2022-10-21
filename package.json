@@ -1,0 +1,16 @@
+{
+"name": "winnerslot888",
+"theme": "winner slot 888",
+"version": "1.6.7",
+"description": "winner slot 888 สมัครเว็บไซต์สล็อตเว็บตรง ไม่มีขั้นต่ำ แจกโบนัสเครดิตฟรี",
+"keywords": [
+"winner slot 888",
+"winner slot 888 เครดิตฟรี",
+"winner slot 888 ทางเข้า"
+],
+"repository": "https://github.com/miloovaltin/winnerslot888",
+"license": "MIT",
+"engines": {
+"atom": ">=1.0.0 <2.0.0"
+}
+}
